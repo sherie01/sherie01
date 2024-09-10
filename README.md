@@ -1,18 +1,15 @@
-# ────୨ৎ────SHERIE────୨ৎ────
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherie01&label=Profile%20views&color=0e75b6&style=flat" alt="sherie01" /> </p>
+<img alt="Programming" src="images.jfif">
+ 
+<img src="https://komarev.com/ghpvc/?username=sherie01&label=Profile%20views&color=0e75b6&style=flat" alt="sherie01" /> ~────୨ৎ────SHERIE────୨ৎ────
 
-<!-- <h3 align="center">>Newbee<</h3>
+- 🔭 I’m currently working on **Myself to fit in with industry standards**
 
- **sherie01/sherie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **PHP,HTML,CSS,JS**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **New Projects**
 
-- 🔭 I’m currently working on - SECRET!
-- 🌱 I’m currently learning - 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- 💬 Ask me about **Don't ever think about it!**
 
+- 📫 How to reach me **sheriedarlenebarila.138531@gmail.com** <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherie01&show_icons=true&locale=en" alt="sherie01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherie01&show_icons=true&locale=en&layout=compact" alt="sherie01" /></p> 
