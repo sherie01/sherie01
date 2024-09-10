@@ -2,13 +2,13 @@
  
 <img src="https://komarev.com/ghpvc/?username=sherie01&label=Profile%20views&color=0e75b6&style=flat" alt="sherie01" /> ~────୨ৎ────SHERIE────୨ৎ────
 
-- 🔭 I’m currently working on **Myself to fit in with industry standards**
+- 🔭 I’m currently working on - **Myself to fit in with industry standards**
 
-- 🌱 I’m currently learning **PHP,HTML,CSS,JS**
+- 🌱 I’m currently learning - **PHP,HTML,CSS,JS**
 
-- 👯 I’m looking to collaborate on **New Projects**
+- 👯 I’m looking to collaborate on - **New Projects**
 
-- 💬 Ask me about **Don't ever think about it!**
+- 💬 Ask me about - **Don't ever think about it!**
 
 - 📫 How to reach me **sheriedarlenebarila.138531@gmail.com** <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherie01&show_icons=true&locale=en" alt="sherie01" /></p>
