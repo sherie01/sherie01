@@ -1,12 +1,12 @@
 <img alt="Programming" src="images.jfif">
  
-<img src="https://komarev.com/ghpvc/?username=sherie01&label=Profile%20views&color=0e75b6&style=flat" alt="sherie01" /> ~────୨ৎ────SHERIE────୨ৎ────
+<img src="https://komarev.com/ghpvc/?username=sherie01&label=Profile%20views&color=0e75b6&style=flat" alt="sherie01" /> &nbsp; ~ &nbsp; ────୨ৎ────SHERIE────୨ৎ──── &nbsp; ~
 
-- 🔭 I’m currently working on - **Myself to fit in with industry standards**
+- 🔭 I’m currently working on - **Myself to fit in with industry standards.**
 
-- 🌱 I’m currently learning - **PHP,HTML,CSS,JS**
+- 🌱 I’m currently learning - **PHP,HTML,CSS,JS.**
 
-- 👯 I’m looking to collaborate on - **New Projects**
+- 👯 I’m looking to collaborate on - **New Projects.**
 
 - 💬 Ask me about - **Don't ever think about it!**
 
