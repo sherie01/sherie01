@@ -1,4 +1,8 @@
-# Hi👋 I'm Sherie.
+# ────୨ৎ────SHERIE────୨ৎ────
+Newbee 🤓 <br>
+SPC Iligan City 🏫 <br>
+BSIT 📚 <br>
+
 <!-- <h3 align="center">>Newbee<</h3>
 
  **sherie01/sherie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
