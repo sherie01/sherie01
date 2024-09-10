@@ -1,7 +1,5 @@
 # ────୨ৎ────SHERIE────୨ৎ────
-Newbee 🤓 <br>
-SPC Iligan City 🏫 <br>
-BSIT 📚 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherie01&label=Profile%20views&color=0e75b6&style=flat" alt="sherie01" /> </p>
 
 <!-- <h3 align="center">>Newbee<</h3>
 
