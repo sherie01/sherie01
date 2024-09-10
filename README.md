@@ -1,4 +1,4 @@
-# Hi there 👋 Sherie Darlene Barila
+# Hi there 👋 I'm Sherie Darlene Barila.
 <!-- <h3 align="center">>Newbee<</h3>
 
  **sherie01/sherie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
