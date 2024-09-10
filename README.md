@@ -11,5 +11,9 @@
 - 💬 Ask me about - **Don't ever think about it!**
 
 - 📫 How to reach me **sheriedarlenebarila.138531@gmail.com** <br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherie01&" alt="sherie01" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherie01&show_icons=true&locale=en" alt="sherie01" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherie01&show_icons=true&locale=en&layout=compact" alt="sherie01" /></p> 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherie01&show_icons=true&locale=en&layout=compact" alt="sherie01" /></p> <br>
