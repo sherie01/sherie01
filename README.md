@@ -10,7 +10,7 @@
 
 - 💬 Ask me about - **Don't ever think about it!**
 
-- 📫 How to reach me **sheriedarlenebarila.138531@gmail.com** <br>
+- 📫 How to reach me **sheriedarlene.barila.138531@gmail.com** <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherie01&" alt="sherie01" /></p>
 
